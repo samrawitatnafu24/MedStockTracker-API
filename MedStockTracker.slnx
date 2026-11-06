@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MedStockTracker.Api/MedStockTracker.Api.csproj" />
+  <Project Path="MedStockTracker.Application/MedStockTracker.Application.csproj" />
+  <Project Path="MedStockTracker.Domain/MedStockTracker.Domain.csproj" />
+  <Project Path="MedStockTracker.Infrastructure/MedStockTracker.Infrastructure.csproj" />
+</Solution>
